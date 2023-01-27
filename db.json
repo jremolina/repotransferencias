@@ -1,0 +1,36 @@
+[
+  {
+    "totalTiendasRegistradas": 1,
+    "totalTiendasEnLinea": 0,
+    "totalTiendasFueraDeLinea": 1,
+    "porcentajeTiendasOnline": 0.0,
+    "porcentajeTiendasOffline": 100.0,
+    "totalPreciosActualizados": 0,
+    "totalPreciosSinActualizacion": 1,
+    "porcentajePreciosActualizados": 0.0,
+    "porcentajePreciosErroneos": 100.0,
+    "totalUsuariosActualizados": null,
+    "totalUsuariosSinActualizacion": null,
+    "porcentajeUsuariosActualizados": null,
+    "porcentajeUsuariosErroneos": null,
+    "umbralDeNHoras": 12,
+    "tiendas>NHSinReportarPrecios": 1,
+    "tiendas<NHReporteOkPrecios": 0,
+    "tiendas<NHReporteErrorPrecios": 0,
+    "tiendas>NHSinReportarUsuarios": null,
+    "tiendas<NHReporteOkUsuarios": null,
+    "tiendas<NHReporteErrorUsuarios": null,
+    "tiendas": [
+      {
+        "codigo": 1,
+        "nombre": "Laboratorio Barranquilla",
+        "tiendaEnLinea": false,
+        "fechaEnLinea": null,
+        "estadoPrecios": "MuchoTiempoSinReportar",
+        "fechaReportePrecios": "2023-01-25T10:23:07.827",
+        "estadoUsuarios": null,
+        "fechaReporteUsuarios": null
+      }
+    ]
+  }
+]
